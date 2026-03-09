@@ -1,4 +1,4 @@
-O
+#############prueba para commits
 
 
 lapiz=1000
@@ -69,4 +69,4 @@ echo "Total colbon: $t8"
 echo "Total carpetas: $t9"
 echo "Total blocks: $t10"
 
-echo "TOTAL FINAL A PAGAR: $total"
+echo "Lo que debes pagar: $total"
