@@ -1,0 +1,1 @@
+Buenas tardes lo que hace mi script de una tienda de papeleria es, pedirle al usuario cada cantidad de lo que quiere en utiles escolares luego eso lo va guardando y al final cuando ya ofrecio todos los productos muestra el total a pagar por el usuario de todo su pedido.
